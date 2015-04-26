@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% include "_title" %}
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@wisdomtour">
+    <meta name="twitter:creator" content="@wisdomtour">
+    <meta name="twitter:domain" content="wisdomasaserviceworldtour.com">
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+    <link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196">
+    <link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+    <link rel="stylesheet" href="//bootswatch.com/journal/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/css/vendor/normalize.css">
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Lato:300, 400, 700'  type='text/css'>
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/fontawesome/4.2.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/assets/css/jquery.bxslider.css">
+
+    <!--[if lt IE 9]>
+    <script src="//cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="//cdn.jsdelivr.net/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="//cdn.jsdelivr.net/jquery/2.1.3/jquery.min.js"></script>
+    <script src="//cdn.jsdelivr.net/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    <script src="/assets/js/jquery.bxslider.js"></script>
+</head>
+<body>
+<div class="container">
+    <header class="navbar navbar-default" role="navigation">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mobile_nav">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a {% if page.url == '/' %}class="active navbar-brand"{% else %} class="navbar-brand" {% endif %}href="/"><img src="/assets/img/coderabbi.png" alt="Penguin" class="logo-penguin">{{ site.title }}</a>
+        </div>
+
+        <div class="collapse navbar-collapse" id="mobile_nav">
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="/sponsorship" {% if page.url == '/sponsorship' %}class="active"{% endif %}>Sponsorship</a></li>
+                <li><a href="/sponsors" {% if page.url == '/sponsors' %}class="active"{% endif %}>Sponsors</a></li>
+                <li><a href="/faq" {% if page.url == '/faq' %}class="active"{% endif %}>FAQ</a></li>
+                <li><a href="/events" {% if page.url == '/events' %}class="active"{% endif %}>Events</a></li>
+                <li><a href="/blog" {% if page.url == '/blog' %}class="active"{% endif %}>Blog</a></li>
+                <li><a href="/map" {% if page.url == '/map' %}class="active"{% endif %}>Map</a></li>
+                <!--<li><a href="/feedback" {% if page.url == '/feedback' %}class="active"{% endif %}>Feedback</a></li>-->
+                <li><a href="/twitter" {% if page.url == '/twitter' %}class="active"{% endif %}>Twitter</a></li>
+                <li><a href="/about" {% if page.url == '/about' %}class="active"{% endif %}>About</a></li>
+                <li><a href="/contact" {% if page.url == '/contact' %}class="active"{% endif %}>Contact</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <div class="content">
+        {% block content_wrapper %}
+            {% block content %}
+            {% endblock %}
+        {% endblock %}
+        <footer class="primary-footer">
+            &copy; {{ "now"|date("Y") }} {{ site.title }} &nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://twitter.com/wisdomworldtour"><i class="fa fa-twitter primary-footer__social"></i></a>
+        </footer>
+    </div>
+</div>
+<script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('send', '', 'pageview');
+</script>
+</body>
+</html>

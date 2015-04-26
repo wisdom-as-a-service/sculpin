@@ -1,0 +1,16 @@
+<article class="post">
+    <div>
+        <h3 class="post-header__meta">
+            {{ post.date|date('F j, Y') }}
+        </h3>
+    </div>
+    <header class="post-header">
+        <p class="post-header__title">
+            <a href="{{ site.url }}{{ post.url }}">
+                {{ post.title }}
+            </a>
+    </header>
+    <div class="post-body">
+        {{ post.blocks.content | raw }}
+    </div>
+</article>

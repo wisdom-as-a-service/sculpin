@@ -1,0 +1,31 @@
+---
+layout: default
+title: Tour Events
+use:
+    - events
+---
+<div class="marquee">Tour Events</div>
+<div class="body">
+    <div class="event-section">Upcoming</div>
+        {% for event in data.events|reverse %}
+            {% if ((event.date | date('Ymd')) > ('now' | date('Ymd'))) %}
+                {% include "_event.twig" %}
+            {% endif %}
+        {% endfor %}
+    <div class="event-section">Planned</div>
+        {% for event in data.events %}
+            {% if event.date is empty %}
+                {% include "_event.twig" %}
+            {% endif %}
+        {% endfor %}
+    <div class="event-section">Past</div>
+        {% for event in data.events %}
+            {% if ((event.date | date('Ymd')) < ('now' | date('Ymd'))) %}
+                {% include "_event.twig" %}
+            {% endif %}
+        {% endfor %}
+
+</div>
+<div class="outro">
+    <p class="text-center">If you would like your message included as part of this worldwide conversation, please review the <a href="sponsorship">Sponsorship Prospectus</a>.</p>
+</div>

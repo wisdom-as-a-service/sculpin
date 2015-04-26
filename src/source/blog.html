@@ -1,0 +1,19 @@
+---
+layout: default
+title: Tour Blog
+use:
+    - posts
+---
+
+<div class="marquee">Tour Blog</div>
+<div class="body">
+    {% for post in data.posts %}
+        {% if post.draft != true %}
+            {% include "_post.twig" %}
+        {% endif %}
+    {% endfor %}
+</div>
+<br>
+<div class="outro" style="margin-top:-1.5em">
+    <p class="text-center">If you would like your message included as part of this worldwide conversation, please review the <a href="sponsorship">Sponsorship Prospectus</a>.</p>
+</div>

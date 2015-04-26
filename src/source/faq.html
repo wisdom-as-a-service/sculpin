@@ -1,0 +1,19 @@
+---
+layout: default
+title: Frequently Asked Questions
+use:
+    - faqs
+---
+
+<div class="marquee">Frequently Asked Questions</div>
+<div class="body">
+    <dl class="faq">
+        {% for faq in data.faqs %}
+            {% include "_faq.twig" %}
+        {% endfor %}
+	</dl>
+</div>
+<div class="outro">
+    <p class="text-center">If you would like your message included as part of this worldwide conversation, please review the <a href="sponsorship">Sponsorship Prospectus</a>.</p>
+</div>
+

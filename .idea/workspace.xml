@@ -1,0 +1,1228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="918ced8f-05c3-4b2a-ae5f-08a93910717f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/source/CNAME" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/source/_events/atlantaphp.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/source/_events/austinphp.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/source/_speakers/davey-shafek.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/source/_posts/february-events-finalized.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/source/_speakers/jeremy-mikola.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/source/_speakers/julia-nguyen.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/source/_events/laraconus.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/source/_posts/march-events-finalized.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/source/_posts/ny-php-added.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/source/_posts/open-west-announcement.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/source/_events/openwest.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/source/_events/phptek.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/source/_events/phpuk.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/source/_posts/shore-php-commitment-cards.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/source/_layouts/speaker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/source/_posts/winter-uk-leg-finalized.md" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\README.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\bin\sculpin" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\bin\sculpin-phar-stub" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\bin\sculpin.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\box.json.dist" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\composer.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\composer.lock" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\phpunit.xml.dist" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\ContentTypesBundle\DependencyInjection\Compiler\MapPass.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\ContentTypesBundle\DependencyInjection\Configuration.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\ContentTypesBundle\DependencyInjection\SculpinContentTypesExtension.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\ContentTypesBundle\SculpinContentTypesBundle.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\MarkdownBundle\DependencyInjection\Configuration.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\MarkdownBundle\DependencyInjection\SculpinMarkdownExtension.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\MarkdownBundle\MarkdownConverter.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\MarkdownBundle\PhpMarkdownExtraParser.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\MarkdownBundle\PhpMarkdownParser.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\MarkdownBundle\Resources\config\services.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\MarkdownBundle\SculpinMarkdownBundle.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\MarkdownBundle\composer.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\MarkdownTwigCompatBundle\ConvertListener.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\MarkdownTwigCompatBundle\DependencyInjection\SculpinMarkdownTwigCompatExtension.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\MarkdownTwigCompatBundle\Resources\config\services.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\MarkdownTwigCompatBundle\SculpinMarkdownTwigCompatBundle.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\MarkdownTwigCompatBundle\composer.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\PaginationBundle\DependencyInjection\Configuration.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\PaginationBundle\DependencyInjection\SculpinPaginationExtension.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\PaginationBundle\PaginationGenerator.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\PaginationBundle\Resources\config\services.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\PaginationBundle\SculpinPaginationBundle.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\PostsBundle\DependencyInjection\Configuration.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\PostsBundle\DependencyInjection\SculpinPostsExtension.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\PostsBundle\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\PostsBundle\SculpinPostsBundle.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\PostsBundle\composer.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\SculpinBundle\Command\AbstractCommand.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\SculpinBundle\Command\ContainerDebugCommand.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\SculpinBundle\Command\DumpAutoloadCommand.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\SculpinBundle\Command\GenerateCommand.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\SculpinBundle\Command\InstallCommand.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\SculpinBundle\Command\SelfUpdateCommand.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\SculpinBundle\Command\ServeCommand.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\SculpinBundle\Command\UpdateCommand.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\SculpinBundle\Console\Application.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\SculpinBundle\DependencyInjection\Compiler\ConverterManagerPass.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\SculpinBundle\DependencyInjection\Compiler\CustomMimeTypesRepositoryPass.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\SculpinBundle\DependencyInjection\Compiler\DataProviderManagerPass.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\SculpinBundle\DependencyInjection\Compiler\DataSourcePass.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\SculpinBundle\DependencyInjection\Compiler\FormatterManagerPass.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\SculpinBundle\DependencyInjection\Compiler\GeneratorManagerPass.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\SculpinBundle\DependencyInjection\Compiler\PathConfiguratorPass.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\SculpinBundle\DependencyInjection\Configuration.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\SculpinBundle\DependencyInjection\SculpinExtension.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\SculpinBundle\HttpKernel\AbstractKernel.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\SculpinBundle\HttpKernel\DefaultKernel.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\SculpinBundle\HttpKernel\KernelFactory.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\SculpinBundle\HttpServer\HttpServer.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\SculpinBundle\Resources\config\kernel.yml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\SculpinBundle\Resources\config\services.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\SculpinBundle\SculpinBundle.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\SculpinBundle\composer.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\StandaloneBundle\Command\CacheClearCommand.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\StandaloneBundle\DependencyInjection\Compiler\RegisterKernelListenersPass.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\StandaloneBundle\DependencyInjection\SculpinStandaloneExtension.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\StandaloneBundle\Resources\config\services.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\StandaloneBundle\SculpinStandaloneBundle.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\StandaloneBundle\composer.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\TextileBundle\DependencyInjection\Configuration.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\TextileBundle\DependencyInjection\SculpinTextileExtension.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\TextileBundle\Resources\config\services.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\TextileBundle\SculpinTextileBundle.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\TextileBundle\TextileConverter.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\TextileBundle\composer.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\ThemeBundle\Command\ListCommand.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\ThemeBundle\DependencyInjection\Configuration.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\ThemeBundle\DependencyInjection\SculpinThemeExtension.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\ThemeBundle\Resources\config\services.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\ThemeBundle\SculpinThemeBundle.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\ThemeBundle\ThemeRegistry.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\ThemeBundle\ThemeTwigExtension.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\ThemeBundle\ThemeTwigLoader.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\TwigBundle\DependencyInjection\Compiler\TwigEnvironmentPass.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\TwigBundle\DependencyInjection\Compiler\TwigLoaderPass.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\TwigBundle\DependencyInjection\Configuration.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\TwigBundle\DependencyInjection\SculpinTwigExtension.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\TwigBundle\FilesystemLoader.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\TwigBundle\FlexibleExtensionFilesystemLoader.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\TwigBundle\Resources\config\services.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\TwigBundle\SculpinTwigBundle.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\TwigBundle\TemplateResetter.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\TwigBundle\TwigFormatter.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Bundle\TwigBundle\composer.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Contrib\ProxySourceCollection\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Contrib\ProxySourceCollection\ProxySourceCollection.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Contrib\ProxySourceCollection\ProxySourceCollectionDataProvider.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Contrib\ProxySourceCollection\ProxySourceItem.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Contrib\ProxySourceCollection\ProxySourceItemFactoryInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Contrib\ProxySourceCollection\README.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Contrib\ProxySourceCollection\SimpleProxySourceItemFactory.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Contrib\ProxySourceCollection\Sorter\DefaultSorter.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Contrib\ProxySourceCollection\Sorter\MetaSorter.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Contrib\ProxySourceCollection\Sorter\SorterInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Contrib\ProxySourceCollection\composer.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Contrib\Taxonomy\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Contrib\Taxonomy\PermalinkStrategyCollection.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Contrib\Taxonomy\PermalinkStrategy\ConvertToLowercaseStrategy.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Contrib\Taxonomy\PermalinkStrategy\PermalinkStrategyInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Contrib\Taxonomy\PermalinkStrategy\ToyRocketStrategy.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Contrib\Taxonomy\PermalinkStrategy\TranslateSpacesToDashesStrategy.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Contrib\Taxonomy\ProxySourceTaxonomyDataProvider.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Contrib\Taxonomy\ProxySourceTaxonomyIndexGenerator.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Contrib\Taxonomy\README.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Contrib\Taxonomy\composer.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Configuration\Configuration.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Console\Command\ContainerAwareCommand.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Converter\ConverterContextInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Converter\ConverterInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Converter\ConverterManager.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Converter\NullConverter.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Converter\ParserInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Converter\SourceConverterContext.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\DataProvider\DataProviderInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\DataProvider\DataProviderManager.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Event\ConvertEvent.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Event\Event.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Event\FormatEvent.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Event\SourceSetEvent.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Formatter\FormatContext.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Formatter\FormatterInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Formatter\FormatterManager.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Generator\GeneratorInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Generator\GeneratorManager.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Io\ConsoleIo.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Io\IoInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Io\NullIo.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Output\FilesystemWriter.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Output\OutputInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Output\SourceOutput.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Output\WriterInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Permalink\Permalink.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Permalink\PermalinkInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Permalink\SourcePermalinkFactory.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\README.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Sculpin.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\SiteConfiguration\SiteConfigurationFactory.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Source\AbstractSource.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Source\CompositeDataSource.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Source\ConfigFilesystemDataSource.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Source\DataSourceInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Source\FileSource.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Source\FilesystemDataSource.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Source\Filter\AntPathFilter.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Source\Filter\ChainFilter.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Source\Filter\DraftsFilter.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Source\Filter\FilterInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Source\Filter\MetaFilter.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Source\Filter\NullFilter.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Source\Map\CalculatedDateFromFilenameMap.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Source\Map\ChainMap.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Source\Map\DefaultDataMap.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Source\Map\DraftsMap.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Source\Map\MapInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Source\Map\NullMap.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Source\MemorySource.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Source\ProxySource.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Source\SourceInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Source\SourceSet.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Tests\Converter\SourceConverterContextTest.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Tests\Fixtures\invalid\malformed-yaml.yml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Tests\Fixtures\invalid\malformed-yaml2.yml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Tests\Fixtures\invalid\one-line-edge-case.yml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Tests\Fixtures\valid\frontmatter-content.yml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Tests\Fixtures\valid\frontmatter-nocontent.yml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Tests\Fixtures\valid\no-end-frontmatter.yml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Tests\Formatter\FormatContextTest.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Tests\Source\CompositeDataSourceTest.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Tests\Source\FileSourceTest.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Tests\Source\Map\CalculatedDateFromFilenameMapTest.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Tests\Source\SourceSetTest.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\Util\DirectorySeparatorNormalizer.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\Coderabbi\WisdomWorldTour\src\Sculpin\Core\composer.json" afterPath="" />
+    </list>
+    <ignored path="WisdomWorldTour.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="WisdomWorldTour" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="shore-php-commitment-cards.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/source/_posts/shore-php-commitment-cards.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.50799626">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/source/_events/2015-02-09.md" />
+        <option value="$PROJECT_DIR$/src/source/_events/2015-01-28.md" />
+        <option value="$PROJECT_DIR$/src/source/_events/2015-01-27.md" />
+        <option value="$PROJECT_DIR$/src/source/_events/2015-01-26.md" />
+        <option value="$PROJECT_DIR$/src/source/_events/dallasphp.md" />
+        <option value="$PROJECT_DIR$/src/source/_events/laraconus.md" />
+        <option value="$PROJECT_DIR$/src/source/_events/confoo.md" />
+        <option value="$PROJECT_DIR$/src/source/_events/warwickshirephp.md" />
+        <option value="$PROJECT_DIR$/src/source/_events/brightonphp.md" />
+        <option value="$PROJECT_DIR$/src/source/_events/brusselsphp.md" />
+        <option value="$PROJECT_DIR$/src/source/_events/berlinphp.md" />
+        <option value="$PROJECT_DIR$/src/source/_events/openwest.md" />
+        <option value="$PROJECT_DIR$/src/source/_events/madisonphp.md" />
+        <option value="$PROJECT_DIR$/src/source/_events/austinphp.md" />
+        <option value="$PROJECT_DIR$/src/source/events.html" />
+        <option value="$PROJECT_DIR$/src/source/_events/phptek.md" />
+        <option value="$PROJECT_DIR$/src/source/_events/phpuk.md" />
+        <option value="$PROJECT_DIR$/src/source/_events/atlantaphp.md" />
+        <option value="$PROJECT_DIR$/src/source/sponsors.html" />
+        <option value="$PROJECT_DIR$/src/source/index.html" />
+        <option value="$PROJECT_DIR$/src/source/_posts/winter-uk-leg-finalized.md" />
+        <option value="$PROJECT_DIR$/src/source/_posts/winter-european-leg-finalized.md" />
+        <option value="$PROJECT_DIR$/src/source/_posts/php-tek.md" />
+        <option value="$PROJECT_DIR$/src/source/_posts/midwest-php.md" />
+        <option value="$PROJECT_DIR$/src/source/_posts/openwest-announcement.md" />
+        <option value="$PROJECT_DIR$/src/source/_events/nyphp.md" />
+        <option value="$PROJECT_DIR$/src/source/_posts/warwickshire-php.md" />
+        <option value="$PROJECT_DIR$/src/source/_posts/nyphp.md" />
+        <option value="$PROJECT_DIR$/src/source/_posts/warwickshire-php-added.md" />
+        <option value="$PROJECT_DIR$/src/source/_posts/symfony-cologne-added.md" />
+        <option value="$PROJECT_DIR$/src/source/_speakers/davey-shafek.md" />
+        <option value="$PROJECT_DIR$/src/source/_speakers/jeremy-mikola.md" />
+        <option value="$PROJECT_DIR$/src/source/_speakers/julia-nguyen.md" />
+        <option value="$PROJECT_DIR$/src/source/_posts/brighton-php-added.md" />
+        <option value="$PROJECT_DIR$/src/source/_posts/dublin-php-added.md" />
+        <option value="$PROJECT_DIR$/src/source/_posts/berlin-php-added.md" />
+        <option value="$PROJECT_DIR$/src/source/_posts/brussels-php-added.md" />
+        <option value="$PROJECT_DIR$/src/source/_posts/confoo-announcement.md" />
+        <option value="$PROJECT_DIR$/src/source/_posts/february-events-finalized.md" />
+        <option value="$PROJECT_DIR$/src/source/_posts/frankfurt-php-added.md" />
+        <option value="$PROJECT_DIR$/src/source/_posts/frysian-php-added.md" />
+        <option value="$PROJECT_DIR$/src/source/_posts/glasgow-php-added.md" />
+        <option value="$PROJECT_DIR$/src/source/_posts/january-events-finalized.md" />
+        <option value="$PROJECT_DIR$/src/source/_posts/lonestar-php-announcement.md" />
+        <option value="$PROJECT_DIR$/src/source/_posts/march-events-finalized.md" />
+        <option value="$PROJECT_DIR$/src/source/_posts/midwest-php-announced.md" />
+        <option value="$PROJECT_DIR$/src/source/_posts/ny-php-added.md" />
+        <option value="$PROJECT_DIR$/src/source/_posts/open-west-announcement.md" />
+        <option value="$PROJECT_DIR$/src/source/_posts/php-benelux-announcement.md" />
+        <option value="$PROJECT_DIR$/src/source/_posts/php-tek-announcement.md" />
+        <option value="$PROJECT_DIR$/src/source/_posts/shore-php-commitment-cards.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1176" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WisdomWorldTour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WisdomWorldTour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WisdomWorldTour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WisdomWorldTour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WisdomWorldTour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WisdomWorldTour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WisdomWorldTour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WisdomWorldTour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WisdomWorldTour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WisdomWorldTour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WisdomWorldTour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WisdomWorldTour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WisdomWorldTour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sponsors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WisdomWorldTour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WisdomWorldTour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_speakers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WisdomWorldTour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WisdomWorldTour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WisdomWorldTour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WisdomWorldTour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WisdomWorldTour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WisdomWorldTour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WisdomWorldTour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WisdomWorldTour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_events" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-excluded-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="SearchEverywhereHistoryKey" value="sty&#9;FILE&#9;file://D:/Projects/Coderabbi/WisdomWorldTour/source/assets/css/style.css&#10;style.css&#9;null&#9;null" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Blog" />
+    <property name="FullScreen" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Coderabbi\WisdomWorldTour\src\source\_speakers" />
+      <recent name="D:\Projects\Coderabbi\WisdomWorldTour\src\source\_posts" />
+      <recent name="D:\Projects\Coderabbi\WisdomWorldTour\src\source\_events" />
+      <recent name="D:\Projects\Coderabbi\WisdomWorldTour\src\source\_layouts" />
+      <recent name="D:\Projects\Coderabbi\WisdomWorldTour\src\output_prod" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\Coderabbi\WisdomWorldTour\source\_layouts" />
+      <recent name="D:\Projects\Coderabbi\WisdomWorldTour\source\assets\css" />
+      <recent name="D:\Projects\Coderabbi\WisdomWorldTour\source" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <profiling log-folder="D:\Projects\Coderabbi\WisdomWorldTour" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="8c7667a8-58d2-47cb-876f-db3c0ddfc2a2" server_name="Wisdom Tour">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="918ced8f-05c3-4b2a-ae5f-08a93910717f" name="Default" comment="" />
+      <created>1420135646693</created>
+      <option name="number" value="Default" />
+      <updated>1420135646693</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Regex Tester" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21302083" sideWeight="0.25389552" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21302083" sideWeight="0.7461045" order="0" side_tool="true" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33614233" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33614233" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Regex Tester" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16510417" sideWeight="0.48945922" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16510417" sideWeight="0.5105408" order="0" side_tool="true" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/source/_events/glasgowphp.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.076199435">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_events/dublinphp.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.076199435">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_events/frankfurtphp.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.076199435">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_events/dallasphp.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15239887">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_events/laraconus.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.101599246">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_events/confoo.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.025399812">
+          <caret line="1" column="87" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_events/warwickshirephp.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.025399812">
+          <caret line="1" column="87" selection-start-line="1" selection-start-column="87" selection-end-line="1" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_events/brightonphp.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.025399812">
+          <caret line="1" column="87" selection-start-line="1" selection-start-column="87" selection-end-line="1" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_events/brusselsphp.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.025399812">
+          <caret line="1" column="87" selection-start-line="1" selection-start-column="87" selection-end-line="1" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_events/berlinphp.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.025399812">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_events/openwest.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.050799623">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_events/madisonphp.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.025399812">
+          <caret line="1" column="70" selection-start-line="1" selection-start-column="70" selection-end-line="1" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_events/austinphp.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.025399812">
+          <caret line="1" column="67" selection-start-line="1" selection-start-column="67" selection-end-line="1" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/events.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49541286">
+          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_events/phpday.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.025399812">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_events/phptek.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.050799623">
+          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_events/phpuk.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.050799623">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_events/atlantaphp.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25399813">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/sponsors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37155962">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4706422">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/output_prod/assets/img/sponsors/laraconus.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_posts/winter-european-leg-finalized.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.025399812">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_posts/winter-uk-leg-finalized.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.025399812">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_posts/shore-php-kickoff-event-added.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22859831">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_events/nyphp.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22859831">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_events/milwaukeephp.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.076199435">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_posts/warwickshire-php-added.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.076199435">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_events/colognesymfony.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.076199435">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_posts/symfony-cologne-added.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.050799623">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_speakers/davey-shafek.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.101599246">
+          <caret line="4" column="98" selection-start-line="4" selection-start-column="98" selection-end-line="4" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_speakers/jeremy-mikola.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.101599246">
+          <caret line="4" column="101" selection-start-line="4" selection-start-column="101" selection-end-line="4" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_speakers/julia-nguyen.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.025399812">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_posts/berlin-php-added.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.050799623">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_posts/brighton-php-added.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.050799623">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_posts/brussels-php-added.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.050799623">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_posts/confoo-announcement.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.050799623">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_posts/dublin-php-added.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.076199435">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_posts/february-events-finalized.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.050799623">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_posts/frankfurt-php-added.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.050799623">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_posts/frysian-php-added.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.076199435">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_posts/glasgow-php-added.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.101599246">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_posts/january-events-finalized.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.050799623">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_posts/lonestar-php-announcement.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.076199435">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_posts/march-events-finalized.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.050799623">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_posts/midwest-php-announced.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.101599246">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_posts/ny-php-added.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.076199435">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_posts/open-west-announcement.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.076199435">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_posts/php-benelux-announcement.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.101599246">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_posts/php-tek-announcement.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.101599246">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/_posts/shore-php-commitment-cards.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50799626">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

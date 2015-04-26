@@ -1,0 +1,6 @@
+{% extends "default" %}
+
+{% block content_wrapper %}
+    <div class="marquee" style="margin-bottom:.67em">Tour Blog</div>
+    {% include "_post.twig" with {'post': page} %}
+{% endblock %}

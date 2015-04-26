@@ -1,0 +1,7 @@
+{% spaceless %}<title>
+    {% if page.title %}
+        {{ page.title }} &middot; {{ site.title }}
+    {% elseif site.title %}
+        {{ site.title }}
+    {% endif %}
+</title>{% endspaceless %}

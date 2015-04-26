@@ -1,0 +1,8 @@
+<div class="speaker">
+    {% if page.url != '/about' %}
+        <div class="marquee" style="margin-bottom:.67em">{{ speaker.name }}</div>
+        <div class="body standard-text">{{ speaker.bio|raw }}</div>
+    {% else %}
+        {{ speaker.bio|raw }}
+    {% endif %}
+</div>

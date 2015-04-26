@@ -1,0 +1,10 @@
+output_prod
+output_dev
+.vagrant
+.sculpin
+sculpin.phar
+Vagrantfile
+publish
+.idea
+*.sh
+*.json

@@ -1,0 +1,18 @@
+    <div class="row appearance">
+		<div class="col-md-3 text-right appearance-date">
+			{% if event.date %}
+				{{ event.date | date('F j, Y') }}
+			{% endif %}
+		</div>
+		<div class="col-md-9 appearance-details">
+			{% if event.event_url %}
+				<a href="//{{ event.event_url }}">
+			{% endif %}
+				<p class="appearance-details__event">{{ event.event }}
+			{% if event.event_url %}
+				</a>
+			{% endif %}
+			<div class="appearance-details__location">{{ event.location }}</div>
+			<p class="appearance-details__title">{{ event.title | raw }}</p>
+		</div>
+    </div>
