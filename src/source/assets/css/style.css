@@ -10,6 +10,7 @@ body {
 	font-family: Lato, sans-serif;
     font-size: 20px;
     height: 100%;
+    overflow: scroll;
 }
 
 a {
@@ -74,6 +75,22 @@ img {
     border-color: #ddd;
     border-radius: 0;
     font-family: Lato, sans-serif;
+}
+
+.nav-tabs > li > a {
+    border-radius: 0;
+    color: darkgrey !important
+}
+
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+    color: #e7be45 !important;
+}
+
+.nav-tabs > li > a:hover,
+.nav-tabs > li > a:focus {
+    color: #000000 !important;
 }
 
 .active {
@@ -168,7 +185,7 @@ img {
     padding-top: .8em;
     font-weight: 300;
     text-align: left;
-    padding-left: 8em;
+    padding-left: 2em;
 }
 
 .appearance-details {

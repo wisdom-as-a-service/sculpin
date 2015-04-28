@@ -5,7 +5,7 @@ short: brightonphp
 location: Brighton, England
 event_url:
 leg: uk-winter
-date: 2015-02-16
+date: 2015-2-16
 ---
 {% block content %}
 {% endblock %}

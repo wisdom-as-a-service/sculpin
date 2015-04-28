@@ -5,7 +5,7 @@ short: tulsawebdev
 location: Tulsa, Oklahoma
 event_url:
 leg: south-spring
-date: 2015-04-20
+date: 2015-4-20
 ---
 {% block content %}
 {% endblock %}

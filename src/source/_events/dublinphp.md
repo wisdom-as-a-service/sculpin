@@ -5,7 +5,7 @@ short: dublinphp
 location: Dublin, Ireland
 event_url:
 leg: uk-winter
-date: 2015-02-09
+date: 2015-2-9
 ---
 {% block content %}
 {% endblock %}

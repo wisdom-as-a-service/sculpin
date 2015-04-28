@@ -5,7 +5,7 @@ short: austinphp
 location: Austin, Texas
 event_url:
 leg: south-spring
-date: 2015-04-13
+date: 2015-4-13
 ---
 {% block content %}
 {% endblock %}

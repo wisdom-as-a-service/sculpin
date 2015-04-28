@@ -5,7 +5,7 @@ short: pnwphp
 location: Seattle, Washington
 event_url: 
 leg: 
-date: 2015-09-11
+date: 2015-9-11
 ---
 {% block content %}
 {% endblock %}

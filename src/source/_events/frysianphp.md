@@ -5,7 +5,7 @@ short: frysianphp
 location: Heerenveen, Netherlands
 event_url: www.meetup.com/PHP-FRL/events/219376841/
 leg: europe-winter
-date: 2015-01-20
+date: 2015-1-20
 ---
 {% block content %}
 {% endblock %}

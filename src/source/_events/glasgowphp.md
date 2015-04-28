@@ -5,7 +5,7 @@ short: glasgowphp
 location: Glasgow, Scotland
 event_url:
 leg: uk-winter
-date: 2015-02-11
+date: 2015-2-11
 ---
 {% block content %}
 {% endblock %}

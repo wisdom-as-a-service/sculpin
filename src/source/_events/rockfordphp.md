@@ -5,7 +5,7 @@ short: rockfordphp
 location: Rockford, Illinois
 event_url:
 leg: midwest-winter
-date: 2015-03-12
+date: 2015-3-12
 ---
 {% block content %}
 {% endblock %}

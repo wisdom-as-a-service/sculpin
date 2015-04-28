@@ -6,7 +6,7 @@ event: php[tek] Conference
 short: phptek
 location: Chicago, Illinois
 event_url:
-date: 2015-05-21
+date: 2015-5-21
 ---
 {% block content %}
 {% endblock %}

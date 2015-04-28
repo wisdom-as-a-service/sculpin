@@ -1,10 +1,10 @@
     <div class="row appearance">
-		<div class="col-md-3 text-right appearance-date">
+		<div class="col-md-2 text-right appearance-date">
 			{% if event.date %}
 				{{ event.date | date('F j, Y') }}
 			{% endif %}
 		</div>
-		<div class="col-md-9 appearance-details">
+		<div class="col-md-10 appearance-details">
 			{% if event.event_url %}
 				<a href="//{{ event.event_url }}">
 			{% endif %}

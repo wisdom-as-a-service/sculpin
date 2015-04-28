@@ -5,7 +5,7 @@ short: peersconf
 location: Philadelphia, Pennsylania
 event_url:
 leg: 
-date: 2015-05-01
+date: 2015-5-1
 ---
 {% block content %}
 {% endblock %}

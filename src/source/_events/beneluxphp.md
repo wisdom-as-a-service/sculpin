@@ -5,7 +5,7 @@ short: beneluxphp
 location: Antwerp, Belgium
 event_url: 
 leg: europe-winter
-date: 2015-01-23
+date: 2015-1-23
 ---
 {% block content %}
 {% endblock %}

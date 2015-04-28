@@ -8,7 +8,7 @@ short: openwest
 location: Provo, Utah
 event_url:
 leg: 
-date: 2015-05-08
+date: 2015-5-8
 ---
 {% block content %}
 {% endblock %}

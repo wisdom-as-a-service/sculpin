@@ -5,7 +5,7 @@ short: madisonphp
 location: Madison, Wisconsin
 event_url: 
 leg: midwest-winter
-date: 2015-03-11
+date: 2015-3-11
 ---
 {% block content %}
 {% endblock %}

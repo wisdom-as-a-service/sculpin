@@ -5,7 +5,7 @@ short: oklahomaphp
 location: Oklahoma City, Oklahoma
 event_url:
 leg: south-spring
-date: 2015-04-21
+date: 2015-4-21
 ---
 {% block content %}
 {% endblock %}

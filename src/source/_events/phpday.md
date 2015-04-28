@@ -4,7 +4,7 @@ event: PHP Day Conference
 short: phpday
 location: Verona, Italy
 event_url:
-date: 2015-05-15
+date: 2015-5-15
 ---
 {% block content %}
 {% endblock %}

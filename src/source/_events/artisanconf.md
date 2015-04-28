@@ -1,11 +1,11 @@
 ---
-title: Talk: TBD - Yitzchok Willroth
+title: Talk: TBD - Yitzchok Willroth<br>
 event: ArtisanConf Conference
 short: artisanconf
-location: Londan, England
+location: London, England
 event_url:
 leg: 
-date: 2015-07-09
+date: 2015-7-9
 ---
 {% block content %}
 {% endblock %}

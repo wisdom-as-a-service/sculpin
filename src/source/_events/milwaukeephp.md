@@ -5,7 +5,7 @@ short: milwaukeephp
 location: Milwaukee, Wisconsin
 event_url: www.meetup.com/Milwaukee-PHP-Users-Group/events/219782008
 leg: midwest-winter
-date: 2015-03-10
+date: 2015-3-10
 ---
 {% block content %}
 {% endblock %}

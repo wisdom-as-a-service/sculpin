@@ -5,7 +5,7 @@ short: frankfurtphp
 location: Frankfurt, Germany
 event_url:
 leg: europe-winter
-date: 2015-01-27
+date: 2015-1-27
 ---
 {% block content %}
 {% endblock %}

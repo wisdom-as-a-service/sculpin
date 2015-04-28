@@ -5,27 +5,39 @@ use:
     - events
 ---
 <div class="marquee">Tour Events</div>
-<div class="body">
-    <div class="event-section">Upcoming</div>
+<br />
+<ul class="nav nav-tabs" id="events">
+    <li class="active"><a href="#upcoming">Upcoming</a></li>
+    <li><a href="#planned">Planned</a></li>
+    <li><a href="#past">Past</a></li>
+</ul>
+<div class="tab-content">
+    <div id="upcoming" class="tab-pane fade in active">
+        <br />
         {% for event in data.events|reverse %}
-            {% if ((event.date | date('Ymd')) > ('now' | date('Ymd'))) %}
+            {% if ((event.date | date('Y-m-d')) > ('now' | date('Y-m-d'))) %}
                 {% include "_event.twig" %}
             {% endif %}
         {% endfor %}
-    <div class="event-section">Planned</div>
+    </div>
+    <div id="planned" class="tab-pane fade">
+        <br />
         {% for event in data.events %}
             {% if event.date is empty %}
                 {% include "_event.twig" %}
             {% endif %}
         {% endfor %}
-    <div class="event-section">Past</div>
+    </div>
+    <div id="past" class="tab-pane fade">
+        <br />
         {% for event in data.events %}
-            {% if ((event.date | date('Ymd')) < ('now' | date('Ymd'))) %}
+            {% if ((event.date | date('Y-m-d')) < ('now' | date('Y-m-d'))) %}
                 {% include "_event.twig" %}
             {% endif %}
         {% endfor %}
-
+    </div>
 </div>
+<br />
 <div class="outro">
     <p class="text-center">If you would like your message included as part of this worldwide conversation, please review the <a href="sponsorship">Sponsorship Prospectus</a>.</p>
 </div>

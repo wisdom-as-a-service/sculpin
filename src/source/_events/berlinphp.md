@@ -5,7 +5,7 @@ short: berlinphp
 location: Berlin, Germany
 event_url: www.bephpug.de
 leg: europe-winter
-date: 2015-01-28
+date: 2015-1-28
 ---
 {% block content %}
 {% endblock %}

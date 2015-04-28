@@ -5,7 +5,7 @@ short: warwickshirephp
 location: Warwickshire, England
 event_url:
 leg: uk-winter
-date: 2015-02-17
+date: 2015-2-17
 ---
 {% block content %}
 {% endblock %}
