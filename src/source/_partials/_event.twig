@@ -1,6 +1,6 @@
     <div class="row appearance">
 		<div class="col-md-2 text-right appearance-date">
-			{% if event.date %}
+			{% if event.pending == false %}
 				{{ event.date | date('F j, Y') }}
 			{% endif %}
 		</div>

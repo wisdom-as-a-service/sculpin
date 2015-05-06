@@ -15,7 +15,7 @@ use:
     <div id="upcoming" class="tab-pane fade in active">
         <br />
         {% for event in data.events|reverse %}
-            {% if ((event.date | date('Y-m-d')) > ('now' | date('Y-m-d'))) %}
+            {% if event.pending == false and (event.date | date('Y-m-d')) > ('now' | date('Y-m-d')) %}
                 {% include "_event.twig" %}
             {% endif %}
         {% endfor %}
@@ -23,7 +23,7 @@ use:
     <div id="planned" class="tab-pane fade">
         <br />
         {% for event in data.events %}
-            {% if event.date is empty %}
+            {% if event.pending %}
                 {% include "_event.twig" %}
             {% endif %}
         {% endfor %}
@@ -31,7 +31,7 @@ use:
     <div id="past" class="tab-pane fade">
         <br />
         {% for event in data.events %}
-            {% if ((event.date | date('Y-m-d')) < ('now' | date('Y-m-d'))) %}
+            {% if event.pending == false and (event.date | date('Y-m-d')) < ('now' | date('Y-m-d'))  %}
                 {% include "_event.twig" %}
             {% endif %}
         {% endfor %}

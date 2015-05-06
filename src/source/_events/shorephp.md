@@ -5,8 +5,7 @@ title: |
 event: ShorePHP User Group (Tour Kickoff Event)
 short: shorephp
 location: Asbury Park, New Jersey
-event_url:
-date: 2015-1-12
+date: 2015-01-12
 ---
 {% block content %}
 {% endblock %}

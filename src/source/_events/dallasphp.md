@@ -5,9 +5,8 @@ title: |
 event: Dallas PHP User Group
 short: dallasphp
 location: Dallas, Texas
-event_url:
 leg: south-spring
-date: 2015-4-14
+date: 2015-04-14
 ---
 {% block content %}
 {% endblock %}

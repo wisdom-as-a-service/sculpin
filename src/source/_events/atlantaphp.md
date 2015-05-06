@@ -5,9 +5,8 @@ title: |
 event: Atlanta PHP User Group
 short: atlantaphp
 location: Atlanta, Georgia
-event_url:
 leg: south-spring
-date: 2015-4-22
+date: 2015-04-22
 ---
 {% block content %}
 {% endblock %}

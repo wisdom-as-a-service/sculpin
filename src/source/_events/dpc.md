@@ -5,9 +5,7 @@ title: |
 event: Dutch PHP Conference
 short: dpc
 location: Amsterdam, Netherlands
-event_url:
-leg: 
-date: 2015-6-24
+date: 2015-06-24
 ---
 {% block content %}
 {% endblock %}

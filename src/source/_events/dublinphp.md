@@ -3,9 +3,8 @@ title: Talk: Talmudic Maxims to Maximize Your Growth as a Developer - Yitzchok W
 event: Dublin PHP User Group
 short: dublinphp
 location: Dublin, Ireland
-event_url:
 leg: uk-winter
-date: 2015-2-9
+date: 2015-02-09
 ---
 {% block content %}
 {% endblock %}

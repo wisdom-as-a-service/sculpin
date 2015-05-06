@@ -3,9 +3,8 @@ title: Talk: TBD - Yitzchok Willroth
 event: Columbus PHP User Group
 short: columbusphp
 location: Columbus, Ohio
-event_url:
-leg:
-date:
+pending: true
+date: 0000-00-00
 ---
 {% block content %}
 {% endblock %}

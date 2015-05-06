@@ -3,8 +3,7 @@ title: Talk: Talmudic Maxims to Maximize Your Growth as a Developer - Yitzchok W
 event: New York PHP User Group
 short: nyphp
 location: New York, New York
-event_url:
-date: 2015-2-24
+date: 2015-02-24
 ---
 {% block content %}
 {% endblock %}

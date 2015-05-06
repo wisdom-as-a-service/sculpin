@@ -6,9 +6,7 @@ title: |
 event: OpenWest Conference
 short: openwest
 location: Provo, Utah
-event_url:
-leg: 
-date: 2015-5-8
+date: 2015-05-08
 ---
 {% block content %}
 {% endblock %}

@@ -5,9 +5,8 @@ title: |
 event: LoneStar PHP Conference
 short: lonestarphp
 location: Addison, Texas
-event_url:
 leg: south-spring
-date: 2015-4-16
+date: 2015-04-16
 ---
 {% block content %}
 {% endblock %}

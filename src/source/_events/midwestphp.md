@@ -5,9 +5,8 @@ title: |
 event: Midwest PHP Conference
 short: midwestphp
 location: Minneapolis, Minnesota
-event_url:
 leg: midwest-winter
-date: 2015-3-15
+date: 2015-03-15
 ---
 {% block content %}
 {% endblock %}

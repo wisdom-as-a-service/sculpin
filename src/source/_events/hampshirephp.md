@@ -3,9 +3,7 @@ title: Talk: TBD - Yitzchok Willroth
 event: PHP Hampshire User Group
 short: hampshirephp
 location: Portsmouth, England
-event_url:
-leg: 
-date: 2015-7-8
+date: 2015-07-08
 ---
 {% block content %}
 {% endblock %}
